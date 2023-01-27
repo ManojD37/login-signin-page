@@ -27,7 +27,7 @@ app.mount("/static", StaticFiles(directory="static"), name="static")
 # .hero{
 #     height: 100%;
 #     width: 100%;
-#     background-image:linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4));
+#     background-image: url("https://cdn.pixabay.com/photo/2018/01/24/18/05/background-3104413__340.jpg");
     
 #     background-position: center;
 #     background-size: cover;
